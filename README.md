@@ -1,2 +1,2 @@
 # Breadth-First-Search
-Simple Breadth-First Searching algorithm utilizing an adjacency matrix as input.
+Program that performs a Breadth-First Search of a tree (represented as an adjacency matrix taken in as input) and outputs the values of the tree children-first.
