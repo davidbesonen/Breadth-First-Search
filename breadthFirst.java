@@ -1,5 +1,8 @@
 import java.util.ArrayList;
 
+//Author: David Besonen
+//Date: 10/26/19
+
 /* Performs a Breadth-First Search of a tree represented as a two-dimensional 
 adjacency matrix and then outputs the tree children-first */
 
